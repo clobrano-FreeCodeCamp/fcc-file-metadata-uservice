@@ -1,0 +1,24 @@
+{
+  "name": "fcc-file-metadata-uservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -u tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clobrano/fcc-file-metadata-uservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clobrano/fcc-file-metadata-uservice/issues"
+  },
+  "homepage": "https://github.com/clobrano/fcc-file-metadata-uservice#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "multer": "^1.3.0"
+  }
+}
